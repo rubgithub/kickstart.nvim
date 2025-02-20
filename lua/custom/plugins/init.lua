@@ -4,7 +4,6 @@
 -- See the kickstart.nvim README for more information
 require 'custom.core.options'
 require 'custom.core.keymaps'
-
 return {
   -- require 'core.options',
 }
