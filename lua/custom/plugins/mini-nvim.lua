@@ -12,5 +12,6 @@ return {
 
     -- Add other mini.nvim modules and their configurations here
     require('mini.pairs').setup()
+    require('mini.move').setup()
   end,
 }
