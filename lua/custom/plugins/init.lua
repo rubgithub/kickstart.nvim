@@ -11,8 +11,8 @@
 
 require 'custom.core.options'
 require 'custom.core.keymaps'
-require 'kickstart.plugins.debug'
 
 return {
+  require 'kickstart.plugins.debug',
   -- require 'core.options',
 }
